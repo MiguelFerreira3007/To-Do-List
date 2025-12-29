@@ -1,2 +1,10 @@
 # To Do List
-Esse projeto foi feito para aprender Java script
+
+
+Esse projeto é um site feito para colocar em pratica as tecnicas de java script
+
+# Tecnologias utilizadas 
+
+- HTML
+- CSS
+- Java Script
